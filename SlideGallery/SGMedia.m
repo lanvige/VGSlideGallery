@@ -1,13 +1,13 @@
 //
-//  GalleryAudioView.h
-//  MultimediaGallery Demo
+//  MGMedia.m
+//  SlideGallery Demo
 //
 //  Created by Lanvige Jiang on 3/8/13.
 //  Copyright (c) 2013 Lanvige Jiang. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "SGMedia.h"
 
-@interface GalleryAudioView : UIView
+@implementation SGMedia
 
 @end

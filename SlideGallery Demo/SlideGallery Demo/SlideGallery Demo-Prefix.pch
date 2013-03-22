@@ -1,5 +1,5 @@
 //
-// Prefix header for all source files of the 'MultimediaGallery Demo' target in the 'MultimediaGallery Demo' project
+// Prefix header for all source files of the 'SlideGallery Demo' target in the 'SlideGallery Demo' project
 //
 
 #import <Availability.h>

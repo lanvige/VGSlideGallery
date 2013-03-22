@@ -1,14 +1,14 @@
 //
-//  GalleryVideoView.m
-//  MultimediaGallery Demo
+//  GalleryAudioView.m
+//  SlideGallery Demo
 //
 //  Created by Lanvige Jiang on 3/8/13.
 //  Copyright (c) 2013 Lanvige Jiang. All rights reserved.
 //
 
-#import "GalleryVideoView.h"
+#import "GalleryAudioView.h"
 
-@implementation GalleryVideoView
+@implementation GalleryAudioView
 
 - (id)initWithFrame:(CGRect)frame
 {

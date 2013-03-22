@@ -1,13 +1,13 @@
 //
-//  MGDefines.m
-//  MultimediaGallery Demo
+//  GalleryImageView.h
+//  SlideGallery Demo
 //
 //  Created by Lanvige Jiang on 3/8/13.
 //  Copyright (c) 2013 Lanvige Jiang. All rights reserved.
 //
 
-#import "MGDefines.h"
+#import <UIKit/UIKit.h>
 
-@implementation MGDefines
+@interface GalleryImageView : UIView
 
 @end

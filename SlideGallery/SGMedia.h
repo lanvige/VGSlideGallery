@@ -1,13 +1,13 @@
 //
-//  GalleryVideoView.h
-//  MultimediaGallery Demo
+//  MGMedia.h
+//  SlideGallery Demo
 //
 //  Created by Lanvige Jiang on 3/8/13.
 //  Copyright (c) 2013 Lanvige Jiang. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface GalleryVideoView : UIView
+@interface SGMedia : NSObject
 
 @end
